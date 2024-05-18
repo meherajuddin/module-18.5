@@ -11,3 +11,10 @@
 // 10.how can you remove the last element from array
 // 11. add an element at the first position of an array
 // 12.Remove the first element of an array
+var meheraj = ["ma", "baba", "bon", "mama", "mami"];
+meheraj.push("meheraj");
+meheraj.shift(0);
+// var meherajuddin = meheraj.indexOf("ma");
+// meheraj[0] = "meheraj";
+// console.log(meheraj.length);
+console.log(meheraj);
